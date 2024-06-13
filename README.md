@@ -29,9 +29,9 @@ I am currently working on my **Masters degree in Data Science** at the Georiga I
 5. Computational Data Analysis (Fall 2024)
 6. Business Fundamentals of Analytics (Fall 2024)
 
-### ⚡Projects |
+#### ⚡Projects |
 Please check out my projects located in my portfolio.
 
-### 👯 Connect with me |
+#### 👯 Connect with me |
 On [LinkedIn](https://www.linkedin.com/in/katie-colasono)
 
