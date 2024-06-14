@@ -30,7 +30,7 @@ I am currently working on my **Masters degree in Data Science** at the Georiga I
 6. Business Fundamentals of Analytics (Fall 2024)
 
 #### ⚡Projects |
-Please check out my projects located in my portfolio.
+Please check out my projects located in my [portfolio](https://github.com/katiecolasonox/Portfolio).
 
 #### 👯 Connect with me |
 On [LinkedIn](https://www.linkedin.com/in/katie-colasono)
