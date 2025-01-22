@@ -20,7 +20,7 @@ organization Women in Data Science (WiDS), I am committed to diversity and inclu
 
 #### 🛠️ Tools |
 - Language: Python, SQL, RStudio
-- Visualization: Python, Tableau, Domo, RStudio
+- Visualization: Python, Tableau, Domo, RStudio, D3 (Java, HTML)
 
 #### 🔭 Revelvant Classes |
 1. Computing for Data Analysis (python)
@@ -30,7 +30,10 @@ organization Women in Data Science (WiDS), I am committed to diversity and inclu
 5. Regression Analysis (RStudio)
 6. Simulation and Modeling (ARENA)
 7. Data Analytics in Business (RStudio)
-8. Business Fundamentals of Analytics 
+8. Business Fundamentals of Analytics
+9. Analysis of Unstructured Data (python)
+10. Data Analysis for Continuted Improvement
+11. Analysis Practicuum 
 
 #### ⚡Projects |
 Please check out my projects located in my [portfolio](https://github.com/katiecolasonox/Portfolio).
